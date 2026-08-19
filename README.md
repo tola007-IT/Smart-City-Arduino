@@ -29,8 +29,9 @@ PIN IN ARDUINO UNO
 - BUTTON PIN 7
 - BUZZER PIN 10
 ### add context 
-[Telegram](https://t.me/IT_YEAR) <br>
-[Facebook](https://www.facebook.com/share/19LJsZVTAX/)
+
+⌯⌲ [Telegram](https://t.me/IT_YEAR) <br>
+ⓕ [Facebook](https://www.facebook.com/share/19LJsZVTAX/)
   
 
 
