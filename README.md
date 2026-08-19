@@ -32,6 +32,6 @@ PIN IN ARDUINO UNO
 
 ⌯⌲[Telegram](https://t.me/IT_YEAR) <br>
 ⓕ [Facebook](https://www.facebook.com/share/19LJsZVTAX/) <br>
-☏[+855967750425](tel:0967750425)
+☏[+855967750425](tel:+855967750425)
 
 
