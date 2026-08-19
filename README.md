@@ -10,9 +10,15 @@
 👉 LIGHT STREET ☀️🌑 <br>
 👉 LIGHT STOP 🚏 
 ### PIN
-- LED_R PIN
-- LED_G PIN
-- LED_Y PIN
-- 
+PIN IN ARDUINO UNO
+- LED_R PIN 3
+- LED_Y PIN 4
+- LED_G PIN 5
+- LED_STREET PIN 6
+- IR_sensor PIN 8 
+- LDR_sensor PIN A2
+- BUTTON PIN 7
+- BUZZER PIN 10
+  
 
 
