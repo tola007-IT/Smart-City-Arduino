@@ -1,12 +1,18 @@
 # Smart City Arduino Project
 
-### ដ្យាក្រាមកូដ(FULL CODE)
-👉 [ចុចទីនេះដេីម្បី ទៅដល់code](Arduino-Project.ino)
-### ដ្យាក្រាមតភ្ជាប់ខ្សែ (Circuit Diagram)
+### FULL CODE
+👉 [code](Arduino-Project.ino)
+### Circuit Diagram
 ![Circuit Diagram](images/circuit.png.jpg)
-### តេស្ត Simulation
-👉 [ចុចទីនេះដើម្បីបើកមើលលើ Wokwi Simulation](https://wokwi.com/projects/472592203542335489)
-#### ដំណេីរការទូទៅនៃProject
+### TEST Simulation
+👉 [ Wokwi Simulation](https://wokwi.com/projects/472592203542335489)
+### Process 
 👉 LIGHT STREET ☀️🌑 <br>
 👉 LIGHT STOP 🚏 
+### PIN
+- LED_R PIN
+- LED_G PIN
+- LED_Y PIN
+- 
+
 
