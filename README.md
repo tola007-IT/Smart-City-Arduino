@@ -2,13 +2,11 @@
 
 ### ដ្យាក្រាមកូដ(FULL CODE)
 👉 [ចុចទីនេះដេីម្បី ទៅដល់code](Arduino-Project.ino)
-
 ### ដ្យាក្រាមតភ្ជាប់ខ្សែ (Circuit Diagram)
 ![Circuit Diagram](images/circuit.png.jpg)
-
 ### តេស្ត Simulation
 👉 [ចុចទីនេះដើម្បីបើកមើលលើ Wokwi Simulation](https://wokwi.com/projects/472592203542335489)
 #### ដំណេីរការទូទៅនៃProject
-👉 LIGHT STREET ☀️🌑
+👉 LIGHT STREET ☀️🌑 <br>
 👉 LIGHT STOP 🚏 
 
