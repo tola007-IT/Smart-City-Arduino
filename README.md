@@ -30,8 +30,8 @@ PIN IN ARDUINO UNO
 - BUZZER PIN 10
 ### add context 
 
-⌯⌲ [Telegram](https://t.me/IT_YEAR) <br>
-ⓕ [Facebook](https://www.facebook.com/share/19LJsZVTAX/) <br>
-☏ [+855967750425]
+⌯⌲ 👉[Telegram](https://t.me/IT_YEAR) <br>
+ⓕ 👉[Facebook](https://www.facebook.com/share/19LJsZVTAX/) <br>
+☏ 👉[+855967750425]
 
 
