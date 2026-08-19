@@ -1,5 +1,14 @@
 # Smart City Arduino Project
 
+### Component 
+- Arduino board
+- LDR sensor
+- IR sensor
+- LED ×4
+- resistor ×4
+- LCD 16×2 I2C
+- BUTTON
+- BUZZER 
 ### FULL CODE
 👉 [code](Arduino-Project.ino)
 ### Circuit Diagram
