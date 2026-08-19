@@ -1,7 +1,7 @@
 # Smart City Arduino Project
 
 ### ដ្យាក្រាមកូដ(FULL CODE)
-👉 [ចុចទីនេះដេីម្បី ទៅដល់code]()
+👉 [ចុចទីនេះដេីម្បី ទៅដល់code](Arduino-Project.ino)
 
 ### ដ្យាក្រាមតភ្ជាប់ខ្សែ (Circuit Diagram)
 ![Circuit Diagram](images/circuit.png.jpg)
