@@ -1,4 +1,21 @@
 # Smart City Arduino Project
+## ⚙️ How It Works
+
+### 💡 Smart Street Light
+The LDR sensor detects the surrounding light level.
+When it becomes dark, the street light turns ON automatically.
+
+### 🚦 Traffic Light
+The traffic light controls RED, YELLOW, and GREEN LEDs
+according to the programmed sequence.
+
+### 🚗 Vehicle Detection
+The IR sensor detects vehicles and sends the information
+to the Arduino.
+
+### 🚶 Pedestrian Crossing
+The button allows pedestrians to request a crossing cycle.
+The LCD displays the current system status.
 
 ### Component 
 - Arduino board
@@ -20,19 +37,18 @@
 👉 LIGHT STOP 🚏 
 ### PIN
 PIN IN ARDUINO UNO
-- LED_R PIN 3
-- LED_Y PIN 4
-- LED_G PIN 5
-- LED_STREET PIN 6
-- IR_sensor PIN 8 
-- LDR_sensor PIN A2
-- BUTTON PIN 7
-- BUZZER PIN 10
+- 🔴LED_R PIN 3
+- 🟡LED_Y PIN 4
+- 🟢LED_G PIN 5
+- 🛣️LED_STREET PIN 6
+- 🚗IR_sensor PIN 8 
+- 🌥️LDR_sensor PIN A2
+- 🖲️BUZZER PIN 7
+- 🔊BUZZER PIN 10
 ### add context 
 
 ⌯⌲ 👉[Telegram](https://t.me/IT_YEAR) <br>
 ⓕ 👉[Facebook](https://www.facebook.com/share/19LJsZVTAX/) <br>
-☏ 👉[+855967750425]
 # 👄THANKS YOU👄
 ![thank](images/thank.jpg)
 
