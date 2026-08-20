@@ -34,6 +34,6 @@ PIN IN ARDUINO UNO
 ⓕ 👉[Facebook](https://www.facebook.com/share/19LJsZVTAX/) <br>
 ☏ 👉[+855967750425]
 # 👄THANKS YOU👄
-![borin](images/borin.jpg)
+![thank](images/thank.jpg)
 
 
