@@ -45,9 +45,6 @@ PIN IN ARDUINO UNO
 - 🌥️LDR_sensor PIN A2
 - 🖲️BUZZER PIN 7
 - 🔊BUZZER PIN 10
-|component|PIN|
-|---------|---|
-|LED_R|4|
 ### add context 
 
 ⌯⌲ 👉[Telegram](https://t.me/IT_YEAR) <br>
