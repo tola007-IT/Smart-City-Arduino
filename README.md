@@ -49,7 +49,7 @@ PIN IN ARDUINO UNO
 
 ⌯⌲ 👉[Telegram](https://t.me/IT_YEAR) <br>
 ⓕ 👉[Facebook](https://www.facebook.com/share/19LJsZVTAX/) <br>
-![thanks you](image/thank.jpg)
+![thanks you](images/thank.jpg)
 
 
 
